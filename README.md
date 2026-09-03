@@ -1,4 +1,5 @@
 # 🌙 Moon Study
+![Descrição da imagem](./img/ChatGPT Image 3_09_2026, 18_08_52.png)
 
 ## 📚 Calendário de Estudos
 
