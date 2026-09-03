@@ -1,0 +1,174 @@
+# 🌙 Moon Study
+
+## 📚 Calendário de Estudos
+
+> Um sistema web para ajudar estudantes a organizar sua rotina de estudos de forma simples, visual e prática.
+
+---
+
+## 📌 Sobre o Projeto
+
+O **Moon Study** é um projeto desenvolvido pela equipe **Moon Tech** com o objetivo de facilitar a organização dos estudos.
+
+A aplicação permite cadastrar atividades, definir datas e horários, acompanhar estudos concluídos e visualizar o progresso.
+
+---
+
+## 🚀 Funcionalidades
+
+* 📅 Calendário mensal
+* 📚 Cadastro de estudos
+* 📝 Cadastro de matéria e assunto
+* ⏰ Definição de horários
+* ✅ Marcar estudos como concluídos
+* 🗑️ Excluir estudos
+* 📊 Cálculo do progresso
+* 📱 Design responsivo
+* 🌙 Interface inspirada na lua e tecnologia
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+| Tecnologia     | Função                           |
+| -------------- | -------------------------------- |
+| **HTML5**      | Estrutura do sistema             |
+| **CSS3**       | Design e responsividade          |
+| **JavaScript** | Interatividade e funcionalidades |
+
+---
+
+## 📂 Estrutura do Projeto
+
+```text
+moon-study/
+│
+├── index.html
+├── style.css
+└── script.js
+```
+
+### `index.html`
+
+Responsável pela estrutura da aplicação.
+
+### `style.css`
+
+Responsável pela aparência, cores, layout e responsividade.
+
+### `script.js`
+
+Responsável pelo calendário, cadastro, conclusão, exclusão e cálculo do progresso.
+
+---
+
+## 💻 Como Executar
+
+### 1. Clone o repositório
+
+```bash
+git clone https://github.com/seu-usuario/moon-study.git
+```
+
+### 2. Entre na pasta
+
+```bash
+cd moon-study
+```
+
+### 3. Abra o projeto
+
+Abra o arquivo:
+
+```text
+index.html
+```
+
+em qualquer navegador.
+
+> Não é necessário instalar dependências.
+
+---
+
+## 📖 Como Usar
+
+### 📚 Adicionar um estudo
+
+Preencha:
+
+* **Matéria**
+* **Data**
+* **Horário**
+* **Assunto**
+
+Depois clique em **Salvar estudo**.
+
+### 📅 Visualizar o calendário
+
+Os dias que possuem estudos cadastrados serão identificados no calendário.
+
+### ✅ Concluir um estudo
+
+Clique no botão **Concluir** quando terminar uma atividade.
+
+### 📊 Acompanhar o progresso
+
+O sistema apresenta automaticamente:
+
+* Total de estudos;
+* Estudos concluídos;
+* Estudos pendentes;
+* Porcentagem de progresso.
+
+---
+
+## 🎨 Identidade Visual
+
+O projeto possui uma identidade visual baseada no conceito:
+
+> **Lua + Tecnologia + Estudos**
+
+### 🌙 Características
+
+* Tema escuro;
+* Detalhes em roxo;
+* Elementos relacionados à lua;
+* Interface moderna;
+* Design responsivo.
+
+---
+
+## 🔮 Futuras Melhorias
+
+* 🔐 Sistema de login;
+* 💾 Banco de dados;
+* 🔔 Sistema de notificações;
+* 📈 Gráficos de desempenho;
+* 👤 Perfil do usuário;
+* 📚 Gerenciamento de matérias;
+* ☁️ Sincronização dos estudos;
+* 🌐 Publicação online.
+
+---
+
+## 👥 Equipe
+
+### 🌙 Moon Tech
+
+Projeto desenvolvido para fins acadêmicos utilizando tecnologias de desenvolvimento web.
+
+---
+
+## 📄 Licença
+
+Este projeto foi desenvolvido para fins **educacionais e acadêmicos**.
+
+---
+
+# 🌙 Moon Study
+
+> **Organize seus estudos.
+> Acompanhe seu progresso.
+> Alcance seus objetivos.**
+
+**Desenvolvido pela Moon Tech 💜**
